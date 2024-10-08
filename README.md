@@ -12,7 +12,7 @@
 <h1 align="center">
   <a title="bio.link/keremketencidev" href="https://bio.link/keremketencidev"
     ><img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F76787&center=true&vCenter=true&repeat=false&width=435&lines=My+Socials"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F76787&center=true&vCenter=true&repeat=false&width=150&lines=My+Socials"
   /></a>
 </h1>
 
