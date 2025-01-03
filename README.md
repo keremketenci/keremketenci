@@ -199,3 +199,10 @@
     /></a>
   </p>
 </details>
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=keremketenci&show_icons=true&theme=dark&locale=en&layout=compact" alt="keremketenci-stats" height="200" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=keremketenci&show_icons=true&theme=dark&locale=en" alt="keremketenci-stats" height="200" />
+</p>
