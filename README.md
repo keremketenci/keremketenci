@@ -10,7 +10,7 @@
 
 <!-- Social icons section -->
 <h1 align="center">
-  <a title="bio.link/keremketencidev" href="https://bio.link/keremketencidev"
+  <a title="linkstack.keremketenci.com" href="https://linkstack.keremketenci.com"
     ><img
       src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F76787&center=true&vCenter=true&repeat=false&width=150&lines=My+Socials"
   /></a>
